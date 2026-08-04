@@ -62,7 +62,7 @@
   <nav class="relative z-50 w-full max-w-7xl mx-auto px-6 py-5 flex items-center justify-between border-b border-slate-800/60">
     <div class="flex items-center gap-3">
       <!-- Logo -->
-      <img src="asset('images/logo.png')" alt="Beacon Logo" class="h-8 w-auto object-contain" onerror="this.style.display='none'; document.getElementById('nav-fallback-logo').style.display='flex';" />
+      <img src="{{asset('images/logo.png')}}" alt="Beacon Logo" class="h-8 w-auto object-contain" onerror="this.style.display='none'; document.getElementById('nav-fallback-logo').style.display='flex';" />
       <div id="nav-fallback-logo" class="hidden h-8 w-8 rounded-lg bg-cyan-500/10 border border-cyan-500/20 items-center justify-center">
         <span class="h-2.5 w-2.5 rounded-full bg-cyan-500 shadow-[0_0_10px_#06C8E0] animate-pulse"></span>
       </div>
