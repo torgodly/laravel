@@ -138,7 +138,7 @@
           <span class="text-slate-500">00:04.28</span>
         </div>
       </div>
-
+ this is an update 
       <!-- Live Terminal Output Stream -->
       <div class="p-5 font-mono text-xs sm:text-sm space-y-2.5 bg-slate-1000/90 leading-relaxed text-slate-300">
         <div class="text-slate-500">[10:27:12] <span class="text-cyan-400">INFO</span> Initiating atomic deployment for app.rosheta.ly (branch: main)...</div>
